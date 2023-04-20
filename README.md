@@ -16,6 +16,8 @@ interested in solving this problem. You may use any data mining software package
 you wish for performing data mining tasks and any programming language for cleaning and preprocessing
 the data.
 
+Data Set: [RPD Open Data Portal](https://data-rpdny.opendata.arcgis.com/)
+
 # Technologies / Software
 
 Microsoft Excel, WEKA, Adobe Illustrator (logo)
